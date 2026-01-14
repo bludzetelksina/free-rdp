@@ -1,4 +1,8 @@
-# Игнорировать системные файлы
+# Logs
+*.log
+xrdp/*.log
+
+# Build artifacts
 .DS_Store
 Thumbs.db
 
